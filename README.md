@@ -27,7 +27,7 @@ The images are resized to 128x128 and are already black and white. They are norm
 epochs = 16
 batch_size = 32
 test_size = 0.3
-image_size = (128,128)
+image_size = (64,64)
 optimizer = adam
 loss = binary_crossentropy
 num_class = 1
@@ -44,7 +44,7 @@ Dropout of 0.5
 ### Output
 Sigmoid activatiom
 
-## Result
+# Result
 <img width="251" height="264" alt="image" src="https://github.com/user-attachments/assets/3a9408ba-d071-47e1-a887-247e6a4636e3" />
 <img width="251" height="264" alt="image" src="https://github.com/user-attachments/assets/4936c053-5619-4ff3-b575-1daf8c2055f5" />
 <img width="306" height="262" alt="image" src="https://github.com/user-attachments/assets/8d960b2c-6d44-4463-8259-cabee913ee32" />
@@ -58,3 +58,5 @@ Sigmoid activatiom
    macro avg       0.76      0.92      0.81    245760
 weighted avg       0.94      0.90      0.91    245760
 
+
+Precision of 0.99, overal good scores: with proper learning with more epochs and a real database, more could be done
