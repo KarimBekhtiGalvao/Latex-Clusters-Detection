@@ -1,3 +1,8 @@
+
+<img width="512" height="512" alt="0" src="https://github.com/user-attachments/assets/93e5b3c6-03ab-40aa-86b6-17759665250e" />
+<img width="512" height="512" alt="0" src="https://github.com/user-attachments/assets/798338d0-0ba5-4f5c-abce-f1a75fc7c41f" />
+
+
 # Latex-Clusters-Detection
 Detection with UNet of clusters of latex
 ## TB1 : Introduction au traitement d'image
