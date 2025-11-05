@@ -38,3 +38,17 @@ Dropout of 0.5
 ### Output
 Sigmoid activatiom
 
+## Result
+<img width="251" height="264" alt="image" src="https://github.com/user-attachments/assets/3a9408ba-d071-47e1-a887-247e6a4636e3" />
+<img width="251" height="264" alt="image" src="https://github.com/user-attachments/assets/4936c053-5619-4ff3-b575-1daf8c2055f5" />
+<img width="306" height="262" alt="image" src="https://github.com/user-attachments/assets/8d960b2c-6d44-4463-8259-cabee913ee32" />
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.89      0.94    219353
+           1       0.52      0.95      0.67     26407
+
+    accuracy                           0.90    245760
+   macro avg       0.76      0.92      0.81    245760
+weighted avg       0.94      0.90      0.91    245760
+
