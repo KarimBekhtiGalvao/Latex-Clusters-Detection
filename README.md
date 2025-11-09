@@ -8,7 +8,7 @@
 Detection with UNet of clusters of latex
 ## TB1 : Introduction au traitement d'image
 Karim Bekhti Galvao
-This project has been done in the context of the class "Introduction to Image Processing" in Mines Saint-Etienne (EMSE). 
+This project has been done in the context of the class "Introduction to Image Processing" in Mines Saint-Etienne (EMSE) (05/2023). 
 ___
 This projects consists in an example of utilisation of a deep learning architecture (Unet) in order to realize picture's segmentation. The different codes below produce detailed results of the use of such an algorithm, on a relatively small training sample. The results are detailed below and in the PDF document given with this work.
 
